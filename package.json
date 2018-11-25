@@ -1,0 +1,14 @@
+{
+  "name": "tameofthrones",
+  "version": "1.0.0",
+  "description": "GeekTrust Tame of Thrones challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Sachin Varghese",
+  "license": "ISC"
+}
